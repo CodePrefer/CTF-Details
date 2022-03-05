@@ -6,7 +6,6 @@ first character is a special character
 second character is a alphabet character
 forth character is a alphabet character
 sixth character is a numeric character
-and Finally last one is a special character..
-I have one more important piece of information. 
+and Finally last one is a special character...... 
 
 
