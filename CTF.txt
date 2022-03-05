@@ -1,9 +1,12 @@
 I am a spy in my past time I get some juicy information about this company
 i have password format of the pdf file.
-It's like I remembered that the first letter is a special character 
-than an alphabet, then an m alphabet, then a 
-letter and then a letter and then a number, and finally a
-special character, remember one thing all letters is in lowercase.
+It's like I remembered that the format:
+**m*l**
+first character is a special character
+second character is a alphabet character
+forth character is a alphabet character
+sixth character is a numeric character
+and Finally last one is a special character..
 I have one more important piece of information. 
-I was scared when I logged into the companies system so i hid an important 
-file inside the companies server
+
+
